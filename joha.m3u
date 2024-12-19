@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://image.tsports.com/images/contents/thumbnail/774/mobile_logo_LIVE_6506adba5876a.jpg” group-title=”Sport”, Tsport
-https://live-cdn.tsports.com/live-03/playlist.m3u8
+http://103.96.235.18:8080/sports1/index.m3u8
