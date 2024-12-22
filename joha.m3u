@@ -1,4 +1,36 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo=”https://image.tsports.com/images/contents/thumbnail/774/mobile_logo_LIVE_6506adba5876a.jpg” group-title=”Sport”, Tsport
+#EXTINF:-1,Tsport
 http://103.96.235.18:8080/sports1/index.m3u8
+
+#EXTINF:-1,TNT Sports 1
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?googlekey=f7bcb5673a9c4a06b12ed33127fe0fdad549aeecae1c0e995e5a5e06dc5717f4&keyhash=f7bcb5673a9c4a06b12ed33127fe0fdad549aeecae1c0e995e5a5e06dc5717f4
+
+#EXTINF:-1,TNT Sports 2
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/tracks-v1a1/mono.ts.m3u8?googlekey=406a8589344adc789dbbe4d5b5514c5ee158b9b1fa904f45d222418d8409d5ff&keyhash=406a8589344adc789dbbe4d5b5514c5ee158b9b1fa904f45d222418d8409d5ff
+
+#EXTINF:-1,TNT Sports 3 (Mono)
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/tracks-v1a1/mono.ts.m3u8?googlekey=8cfe49a1b57c4b703a1bf3a13d1916afd9e45d0962f809e8eb9860ef1f5f7c96&keyhash=8cfe49a1b57c4b703a1bf3a13d1916afd9e45d0962f809e8eb9860ef1f5f7c96
+
+#EXTINF:-1,TNT Sports 4
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8?googlekey=2f3efcf42ae6dd44a47e683ca3440e976ea6bf65a383722f897361d4045058b3&keyhash=2f3efcf42ae6dd44a47e683ca3440e976ea6bf65a383722f897361d4045058b3
+
+#EXTINF:-1,sky sports cricket
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=3dd2337730c5db006bfa76fa25c23f89d694b7ac1331803808687d8d57acc428&keyhash=3dd2337730c5db006bfa76fa25c23f89d694b7ac1331803808687d8d57acc428
+
+#EXTINF:-1,sky sports Main Event
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event/tracks-v1a1/mono.ts.m3u8?googlekey=1654e7cb6ec84501f202d19db55a1180982cd748e8c83b25f529446023cab54a&keyhash=1654e7cb6ec84501f202d19db55a1180982cd748e8c83b25f529446023cab54a
+
+#EXTINF:-1,Super Sport Cricket
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=491aa4bd746ecb1e3a8d08f79f3eca4278c0c65e1a24b82ba929e2895d79f88b&keyhash=491aa4bd746ecb1e3a8d08f79f3eca4278c0c65e1a24b82ba929e2895d79f88b
+
+#EXTINF:-1,Willow Cricket
+https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Cricket_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=3212f706815a45b00b9b0e11f8a724fcc535fb3090de27fbab96c21212e83836&keyhash=3212f706815a45b00b9b0e11f8a724fcc535fb3090de27fbab96c21212e83836
+
+#EXTINF:-1,Bein Sports
+https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_USA_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=6580f0510bfa9743cbee0cf95756fc3dbfcdde1e700ae7fe6705e49813a5eb99&keyhash=6580f0510bfa9743cbee0cf95756fc3dbfcdde1e700ae7fe6705e49813a5eb99
+
+#EXTINF:-1,Bein_Sports_English_2
+https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_English_2_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=b0f614b660ff265d0ca361f8e59f75fb497d8733590479feb875967076561cb2&keyhash=b0f614b660ff265d0ca361f8e59f75fb497d8733590479feb875967076561cb2
+
+#EXTINF:-1,WWE
+https://rr2---sn-npoe23nsr.creativehub.sbs/WWE_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=d5bbd32f1b0b23aea790400a5beefee093b0e046dbcbe3a2b91979ab260904bf&keyhash=d5bbd32f1b0b23aea790400a5beefee093b0e046dbcbe3a2b91979ab260904bf
