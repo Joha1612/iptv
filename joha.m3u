@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsport 
 https://247stream.one/tv/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 
+#EXTINF:-1,1LIVE
+http://103.89.248.18:8082/1LIVE/tracks-a1/seg-0-134827.hls.fmp4?token=1d441102beadfe86d814a4cbabc81eaf4087768f-803cb4859f06a1209bde1e725b2f9c55-1736794106-1736783306
+
 #EXTINF:-1, tvg-logo="", TNT Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?googlekey=f7bcb5673a9c4a06b12ed33127fe0fdad549aeecae1c0e995e5a5e06dc5717f4&keyhash=f7bcb5673a9c4a06b12ed33127fe0fdad549aeecae1c0e995e5a5e06dc5717f4
 
