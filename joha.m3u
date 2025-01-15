@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsport 
 https://247stream.one/tv/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 
-#EXTINF:-1,1LIVE
-http://nayeemparvez.emart.biz.id/amrbd-x/chunklist.m3u8
+#EXTINF:-1,Gtv
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=GTV&e=.m3u8
 
 #EXTINF:-1, tvg-logo="", TNT Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?googlekey=f7bcb5673a9c4a06b12ed33127fe0fdad549aeecae1c0e995e5a5e06dc5717f4&keyhash=f7bcb5673a9c4a06b12ed33127fe0fdad549aeecae1c0e995e5a5e06dc5717f4
