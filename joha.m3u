@@ -8,25 +8,25 @@ http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=GTV&e=.m3u8
 #EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png", TNT Sports 1
 https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?googlekey=febdf4a8f1529596de6c5c0dab77721f57d2b59058e85ea552498db85289a773&keyhash=febdf4a8f1529596de6c5c0dab77721f57d2b59058e85ea552498db85289a773
 
-#EXTINF:-1, tvg-logo="",TNT Sports 2
+#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT Sports 2
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/tracks-v1a1/mono.ts.m3u8?googlekey=406a8589344adc789dbbe4d5b5514c5ee158b9b1fa904f45d222418d8409d5ff&keyhash=406a8589344adc789dbbe4d5b5514c5ee158b9b1fa904f45d222418d8409d5ff
 
-#EXTINF:-1, tvg-logo="",TNT Sports 3
+#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT Sports 3
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/tracks-v1a1/mono.ts.m3u8?googlekey=8cfe49a1b57c4b703a1bf3a13d1916afd9e45d0962f809e8eb9860ef1f5f7c96&keyhash=8cfe49a1b57c4b703a1bf3a13d1916afd9e45d0962f809e8eb9860ef1f5f7c96
 
-#EXTINF:-1, tvg-logo="",TNT Sports 4
+#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT Sports 4
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8?googlekey=2f3efcf42ae6dd44a47e683ca3440e976ea6bf65a383722f897361d4045058b3&keyhash=2f3efcf42ae6dd44a47e683ca3440e976ea6bf65a383722f897361d4045058b3
 
-#EXTINF:-1, tvg-logo="",sky sports cricket
+#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png",sky sports cricket
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=3dd2337730c5db006bfa76fa25c23f89d694b7ac1331803808687d8d57acc428&keyhash=3dd2337730c5db006bfa76fa25c23f89d694b7ac1331803808687d8d57acc428
 
-#EXTINF:-1, tvg-logo="",sky sports Main Event
+#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",sky sports Main Event
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event/tracks-v1a1/mono.ts.m3u8?googlekey=1654e7cb6ec84501f202d19db55a1180982cd748e8c83b25f529446023cab54a&keyhash=1654e7cb6ec84501f202d19db55a1180982cd748e8c83b25f529446023cab54a
 
-#EXTINF:-1, tvg-logo="",Super Sport Cricket
+#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/srtijz1643382350.png",Super Sport Cricket
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=491aa4bd746ecb1e3a8d08f79f3eca4278c0c65e1a24b82ba929e2895d79f88b&keyhash=491aa4bd746ecb1e3a8d08f79f3eca4278c0c65e1a24b82ba929e2895d79f88b
 
-#EXTINF:-1, tvg-logo="",Willow Cricket
+#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png",Willow Cricket
 https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Cricket_Live_TV/tracks-v1a1/mono.ts.m3u8?googlekey=3212f706815a45b00b9b0e11f8a724fcc535fb3090de27fbab96c21212e83836&keyhash=3212f706815a45b00b9b0e11f8a724fcc535fb3090de27fbab96c21212e83836
 
 #EXTINF:-1, tvg-logo="",Bein Sports
