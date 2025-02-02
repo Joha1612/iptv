@@ -5,17 +5,14 @@ http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:-1, tvg-logo="http://bdix2.zapto.org/we/assets/images/GTV 31670253750.png",Gtv
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=GTV&e=.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png", TNT SPORTS 1 
-https://nayeemparvez.online/beesports/live.php?id=9ab7e7d2-a517-4162-92de-ddeb433bb0da|User-Agent=Dalvik/2.1.0 (Linux; U; Android 14; SM-S911B Build/UP1A.231005.007)
-
 #EXTINF:-1, tvg-logo="", TNT Sports 1
-https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?googlekey=6038dba210861cfa068683c2996237d12c6d22ecc2a3ec5de2ad7b925a95a323&keyhash=6038dba210861cfa068683c2996237d12c6d22ecc2a3ec5de2ad7b925a95a323
+https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?googlekey=00e9e299bb8eaff3522a0b6af76c2b1e187e2a3ac4d309340d48500ad3480122&keyhash=00e9e299bb8eaff3522a0b6af76c2b1e187e2a3ac4d309340d48500ad3480122
 
 #EXTINF:-1, tvg-logo="",TNT Sports 2
-https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_2/tracks-v1a1/mono.ts.m3u8?googlekey=f9156c362e16cd2ad19e7b5d92ef17291dfae34281e65328b264017b26e7bf8b&keyhash=f9156c362e16cd2ad19e7b5d92ef17291dfae34281e65328b264017b26e7bf8b
+https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_2/tracks-v1a1/mono.ts.m3u8?googlekey=1306302a4bfcac2ae3073a7524d6dcd33f47649e8f9c5e4c658b76704dc0c098&keyhash=1306302a4bfcac2ae3073a7524d6dcd33f47649e8f9c5e4c658b76704dc0c098
 
 #EXTINF:-1, tvg-logo="",TNT Sports 3
-https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_3/tracks-v1a1/mono.ts.m3u8?googlekey=5d0029213c0e6a520395b5da6c6a444f71c5aa7d03cda8622b1719da67af48d4&keyhash=5d0029213c0e6a520395b5da6c6a444f71c5aa7d03cda8622b1719da67af48d4
+https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_3/tracks-v1a1/mono.ts.m3u8?googlekey=94719ab223ef6bb77481497f8f28c236b0d6d868e0f75777cff195239b93c66b&keyhash=94719ab223ef6bb77481497f8f28c236b0d6d868e0f75777cff195239b93c66b
 
 #EXTINF:-1, tvg-logo="",TNT Sports 4
 https://rr3---sg-npoe23nsr.creativehub.sbs/TNT_Sports_4/tracks-v1a1/mono.ts.m3u8?googlekey=e1867dcc34d5562d6db15256106c64407512d7902fc173bdb56c919fd9c7e0cb&keyhash=e1867dcc34d5562d6db15256106c64407512d7902fc173bdb56c919fd9c7e0cb
