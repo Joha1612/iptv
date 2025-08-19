@@ -5,8 +5,8 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsport2
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Ban vs pak
-http://c1.frsports.info/PB32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", Zee Bangla
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8
 
 #EXTINF:-1, tvg-logo="",Btv
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
