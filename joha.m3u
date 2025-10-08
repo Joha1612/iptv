@@ -5,8 +5,8 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsport2
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Zee Bangla
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8
+#EXTINF:-1 tvg-logo="", Tapmad
+https://tapmad-live.cdn.vustreams.com/live/970deb84-bb4c-4dc3-99fb-01c68dd7c9af/live.isml/live-video=6499968.m3u8
 
 #EXTINF:-1, tvg-logo="",Btv
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
