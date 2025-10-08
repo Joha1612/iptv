@@ -8,6 +8,13 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Tapmad
 https://tapmad-live.cdn.vustreams.com/live/970deb84-bb4c-4dc3-99fb-01c68dd7c9af/live.isml/live-video=6499968.m3u8
 
+#EXTINF:-1 tvg-id="e597faba-8fc7-4be1-95bd-1d988adb59b0" tvg-name="1st ODI: Afghanistan v Bangladesh (1st Innings)" tvg-language="English" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/ecyrymgdczzb28dhrqnb" group-title="🔴LIVE | cricket",🔴1st ODI: Afghanistan v Bangladesh (1st Innings)
+#EXTVLCOPT:http-user-agent=Diva TestApp/10.7.0 (Linux;Android 13;DOCTOR_STRANGE) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-services.top/wanda.php?id=1250000000
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1759951159~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=1d1f4cb636f32eb244866c52f56382c0d8583138690e42f9849d1cfe1f020abb/manifest.mpd?vcfilter=e597faba-8fc7-4be1-95bd-1d988adb59b0&sessid=e597faba-8fc7-4be1-95bd-1d988adb59b0-d
+
+
 #EXTINF:-1, tvg-logo="",Btv
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 
