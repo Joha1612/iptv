@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,Tsport1
-http://10.220.220.120:4518/TSPORTS-NEYAMUL/index.m3u8
+http://10.98.198.98:4518/T-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsport2
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsport Backup 
-http://10.220.220.120:4518/T-SPORTS/index.m3u8
+http://10.98.198.98:4518/T-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1139
