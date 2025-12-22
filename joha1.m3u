@@ -1,0 +1,266 @@
+#EXTM3U
+# Updated: 2025-12-22T21:07:10.179624
+
+#EXTINF:-1 group-title="CricHD",A Sports HD
+https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=BE2_KG_o5ZFWerswtBIphA&expires=1766423131
+
+#EXTINF:-1 group-title="CricHD",Channel 9 - SuperSport Variety 4
+https://d5.merichunidya.com:1686/hls/hdchnl9.m3u8?md5=323mIOP_G0FZIjeNs7q4Hg&expires=1766423143
+
+#EXTINF:-1 group-title="CricHD",Ch11 ( BT Sport 6 )
+https://d2.merichunidya.com:1686/hls/hdchnl11.m3u8?md5=VjrjSQuJ1c0dDDQERQ3QYw&expires=1766423145
+
+#EXTINF:-1 group-title="CricHD",Ch10 ( BT Sport 5 )
+https://d9.merichunidya.com:1686/hls/hdchnl10.m3u8?md5=gDo_BtsQdWsbQxAgEM4GvQ&expires=1766423145
+
+#EXTINF:-1 group-title="CricHD",Ch12 ( BT Sport 7 )
+https://d7.merichunidya.com:1686/hls/hdchnl12.m3u8?md5=zsNOqYoNrI6UbrPDIb5ZTA&expires=1766423145
+
+#EXTINF:-1 group-title="CricHD",Ch13 ( BT Sport 8 )
+https://d1.merichunidya.com:1686/hls/hdchnl13.m3u8?md5=EN_dKkVNDBhFdJaWIbpEvw&expires=1766423145
+
+#EXTINF:-1 group-title="CricHD",Ch14 ( BT Sport 9 )
+https://d3.merichunidya.com:1686/hls/hdchnl14.m3u8?md5=nSm8F9GhUkYmyqNAIaHEfA&expires=1766423147
+
+#EXTINF:-1 group-title="CricHD",Ch15 ( BT Sport 10 )
+https://d8.merichunidya.com:1686/hls/hdchnl15.m3u8?md5=kp8azZljpgkiCzlgV0eOqQ&expires=1766423147
+
+#EXTINF:-1 group-title="CricHD",Ch16 - Direct Sports SP
+https://d5.merichunidya.com:1686/hls/dsportshd1.m3u8?md5=fLwC5P6t8mt1kXsh9Jo0BQ&expires=1766423150
+
+#EXTINF:-1 group-title="CricHD",Channel 17
+https://d9.merichunidya.com:1686/hls/hdchnl17.m3u8?md5=2ypw6jQJ7znGGduxEF6MGA&expires=1766423151
+
+#EXTINF:-1 group-title="CricHD",Channel 18
+https://d9.merichunidya.com:1686/hls/hdchnl18.m3u8?md5=EMVXIRqwVmqL-O_iqYyuwA&expires=1766423152
+
+#EXTINF:-1 group-title="CricHD",Channel 19 ( PPV )
+https://d10.merichunidya.com:1686/hls/hdchnl19.m3u8?md5=DLCrpSbF0J9r8ExHfgC5hg&expires=1766423152
+
+#EXTINF:-1 group-title="CricHD",Channel 20
+https://d10.merichunidya.com:1686/hls/hdchnl20.m3u8?md5=ia9ou_GHQo_y33CHZ_Nn1g&expires=1766423152
+
+#EXTINF:-1 group-title="CricHD",Channel 6 - SuperSport Variety 1
+https://d2.merichunidya.com:1686/hls/hdchnl6.m3u8?md5=cuUmX4SiYKtnxszHBZXuGw&expires=1766423153
+
+#EXTINF:-1 group-title="CricHD",Channel 7 - SuperSport Variety 2
+https://d6.merichunidya.com:1686/hls/hdchnl7.m3u8?md5=qx6gu29aQJ4g7-de-pBJCg&expires=1766423154
+
+#EXTINF:-1 group-title="CricHD",HIGH HD 3
+https://d2.merichunidya.com:1686/hls/mls786.m3u8?md5=ALL0k0jhYqx_zI1mUFb3-Q&expires=1766423157
+
+#EXTINF:-1 group-title="CricHD",Channel 8 - SuperSport Variety 3
+https://d9.merichunidya.com:1686/hls/hdchnl8.m3u8?md5=G0S6Q9q5SiIkZu6E8sdvGA&expires=1766423159
+
+#EXTINF:-1 group-title="CricHD",DAZN 1 España
+https://d3.merichunidya.com:1686/hls/dazn1es.m3u8?md5=3FZ5icGuUUINN3c_U9llmw&expires=1766423159
+
+#EXTINF:-1 group-title="CricHD",DAZN LALIGA España
+https://d2.merichunidya.com:1686/hls/daznlaliga.m3u8?md5=_8OhN2J9V02fc_PtL5r9OQ&expires=1766423160
+
+#EXTINF:-1 group-title="CricHD",ESPN 2 US
+https://d3.merichunidya.com:1686/hls/espn2.m3u8?md5=37gFtGIYbpiNUJyOAnfKOg&expires=1766423161
+
+#EXTINF:-1 group-title="CricHD",ESPN US
+https://d4.merichunidya.com:1686/hls/espnusa.m3u8?md5=utsdyGWakLeHsFRjrDkE2g&expires=1766423162
+
+#EXTINF:-1 group-title="CricHD",EuroSport 2
+https://d10.merichunidya.com:1686/hls/eurosp2.m3u8?md5=EOfydxI8hv_PHJcUBhPQGQ&expires=1766423162
+
+#EXTINF:-1 group-title="CricHD",EuroSport 1
+https://d1.merichunidya.com:1686/hls/eurosp1.m3u8?md5=Z3GfKUINd6pDQOWWd9PCYg&expires=1766423162
+
+#EXTINF:-1 group-title="CricHD",Fox 502 HD
+https://d5.merichunidya.com:1686/hls/fox5022.m3u8?md5=octMYVzmcV3fkbv2iUTckQ&expires=1766423165
+
+#EXTINF:-1 group-title="CricHD",Fox 503 HD
+https://d7.merichunidya.com:1686/hls/fox503.m3u8?md5=Ln3lpsnZ7HlyYZkXSRqOwQ&expires=1766423166
+
+#EXTINF:-1 group-title="CricHD",Fox 504 HD
+https://d7.merichunidya.com:1686/hls/fox504.m3u8?md5=H21lDnIYcYL0I-Ql3ZAJzw&expires=1766423167
+
+#EXTINF:-1 group-title="CricHD",Fox 505 HD
+https://d5.merichunidya.com:1686/hls/fox505.m3u8?md5=cZgr4v4q2Hp1nAzX_slSWQ&expires=1766423167
+
+#EXTINF:-1 group-title="CricHD",Fox 506 HD
+https://d9.merichunidya.com:1686/hls/fox506.m3u8?md5=USWAd9W50uDiS3BZ0AaR6A&expires=1766423168
+
+#EXTINF:-1 group-title="CricHD",Fox Cricket 501 HD
+https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=GXxeSZdRIE37j9CdRcml-g&expires=1766423168
+
+#EXTINF:-1 group-title="CricHD",FOX Sports 1 USA
+https://d4.merichunidya.com:1686/hls/usafox1.m3u8?md5=190s2AXDykJ_tOqVJAwQhw&expires=1766423169
+
+#EXTINF:-1 group-title="CricHD",FOX Soccer Plus
+https://d1.merichunidya.com:1686/hls/foxsoccerplus.m3u8?md5=1nCwSUxkXXADRX57Tp39Jw&expires=1766423171
+
+#EXTINF:-1 group-title="CricHD",Geo Super
+https://d3.merichunidya.com:1686/hls/geosp.m3u8?md5=9VXZ9n_n4C1BhmRWtVJVBQ&expires=1766423173
+
+#EXTINF:-1 group-title="CricHD",FOX Sports 2 USA
+https://d5.merichunidya.com:1686/hls/usafox2.m3u8?md5=jk4I3k47A5jNTq9EvrsWSQ&expires=1766423173
+
+#EXTINF:-1 group-title="CricHD",Gazi TV BD
+https://d8.merichunidya.com:1686/hls/gazitv.m3u8?md5=lPlZoToMYrh2dKgseLz83g&expires=1766423173
+
+#EXTINF:-1 group-title="CricHD",Gol Mundial 2 ES
+https://d8.merichunidya.com:1686/hls/golmundiales2.m3u8?md5=bu0SZ5gUpEP4CxP6sjOFIA&expires=1766423174
+
+#EXTINF:-1 group-title="CricHD",Hub Premier 2
+https://d6.merichunidya.com:1686/hls/hubpremier2.m3u8?md5=meGN_c75t4VJ12o7bflwCg&expires=1766423176
+
+#EXTINF:-1 group-title="CricHD",Hub Premier 1
+https://d7.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=1O_fyCDUlusfZpHq1N0E1Q&expires=1766423177
+
+#EXTINF:-1 group-title="CricHD",Hub Premier 4
+https://d6.merichunidya.com:1686/hls/hubpremier4.m3u8?md5=OxBjbrB7iOW0cTJV8_7FKw&expires=1766423180
+
+#EXTINF:-1 group-title="CricHD",Hub Premier 5
+https://d5.merichunidya.com:1686/hls/hubpremier5.m3u8?md5=XEvC2QZwESHk_qYQereq6A&expires=1766423180
+
+#EXTINF:-1 group-title="CricHD",LaLiga Tv
+https://d6.merichunidya.com:1686/hls/laligauk.m3u8?md5=v1hiK0_7p4B5qOdlQi2IJg&expires=1766423180
+
+#EXTINF:-1 group-title="CricHD",Hub Premier 3
+https://d1.merichunidya.com:1686/hls/hubpremier3.m3u8?md5=UzLCr84IGyPIfqzKA3KGTg&expires=1766423180
+
+#EXTINF:-1 group-title="CricHD",M. LaLiga
+https://d5.merichunidya.com:1686/hls/mlaliga.m3u8?md5=rDVJJOXqNiekJHmCSqvf5w&expires=1766423182
+
+#EXTINF:-1 group-title="CricHD",PTV Sports
+https://d7.merichunidya.com:1686/hls/ptvpk.m3u8?md5=hgkQ4o9SYcaIe_6_FJ2I4A&expires=1766423183
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 2 NZ
+https://d3.merichunidya.com:1686/hls/sky2nz.m3u8?md5=QorhjA-9db7tgDLzZShaZg&expires=1766423184
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 1 NZ
+https://d5.merichunidya.com:1686/hls/sky1nz.m3u8?md5=L4xflTSiOA3y_Z-CK6Uncw&expires=1766423184
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 3 NZ
+https://d6.merichunidya.com:1686/hls/sky3nz.m3u8?md5=B1u5bgEfu5EJST6HwgbpxA&expires=1766423186
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 4 NZ
+https://d6.merichunidya.com:1686/hls/sky4nz.m3u8?md5=KYyDkFCMBWOzNxw91SlWUA&expires=1766423187
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 5 NZ
+https://d7.merichunidya.com:1686/hls/sky5nz.m3u8?md5=OLBqk56Aj2Yo44IeoKjPiQ&expires=1766423187
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 6 NZ
+https://d1.merichunidya.com:1686/hls/sky6nz.m3u8?md5=ys9nlWrFw5p7qBXwUUC59g&expires=1766423189
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 8 NZ
+https://d3.merichunidya.com:1686/hls/sky8nz.m3u8?md5=Z0UUA2Q8nhGXIeNWIP0-1Q&expires=1766423189
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 7 NZ
+https://d10.merichunidya.com:1686/hls/sky7nz.m3u8?md5=yhV-BseFMP08L6PxGR1vkg&expires=1766423190
+
+#EXTINF:-1 group-title="CricHD",Sky Sport 9 NZ
+https://d5.merichunidya.com:1686/hls/sky9nz.m3u8?md5=NdVODK4HfjafOCgk6ZWqAg&expires=1766423190
+
+#EXTINF:-1 group-title="CricHD",Sky Sports  Action
+https://d7.merichunidya.com:1686/hls/skysact.m3u8?md5=YFx7NtS-a7z8NKMWFVv_ZA&expires=1766423191
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Arena
+https://d2.merichunidya.com:1686/hls/skysare.m3u8?md5=p3XZa_06wAODIt-pfYNrGw&expires=1766423193
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Box Office
+https://d1.merichunidya.com:1686/hls/hdchnl20.m3u8?md5=57lLCfVUz8B_WsCKIEEgeg&expires=1766423193
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Cricket UK Backup
+https://d7.merichunidya.com:1686/hls/skyscric.m3u8?md5=qhYeyGVFE1c4sLbE6_dpMQ&expires=1766423195
+
+#EXTINF:-1 group-title="CricHD",Sky Sports F1 BackUp
+https://d3.merichunidya.com:1686/hls/skysfor1.m3u8?md5=8T59a6x7fEP1HTWHcEkpGg&expires=1766423196
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Football
+https://d9.merichunidya.com:1686/hls/skysfott.m3u8?md5=uDf4KiPGX8iOqk_0slefCA&expires=1766423196
+
+#EXTINF:-1 group-title="CricHD",Sky Sports  Golf
+https://d8.merichunidya.com:1686/hls/skysgol.m3u8?md5=BFJSA-2p7e8Hzuwi2s4hCw&expires=1766423197
+
+#EXTINF:-1 group-title="CricHD",Sky Sports F1
+https://d2.merichunidya.com:1686/hls/skysfor1.m3u8?md5=zSx-q-qIzi-DyufEu3KYSA&expires=1766423198
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Main Event
+https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=Du3uMTyNUXpRrXpGdhxE4w&expires=1766423200
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Mix
+https://d6.merichunidya.com:1686/hls/skysmixx.m3u8?md5=T8xNOUjtYvlMVet_ZenDgg&expires=1766423200
+
+#EXTINF:-1 group-title="CricHD",Sky Sports News
+https://d1.merichunidya.com:1686/hls/skyspnews.m3u8?md5=Kva7sWMj1pee3fSVEfI0gA&expires=1766423200
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Premier League
+https://d2.merichunidya.com:1686/hls/skysprem.m3u8?md5=RgpZoQD6MWDj0lX2XptlLA&expires=1766423202
+
+#EXTINF:-1 group-title="CricHD",Sony Ten 1 HD EN
+https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=oRdIM1SBXISvpE0WzQDFfA&expires=1766423203
+
+#EXTINF:-1 group-title="CricHD",Sky Sports Tennis
+https://d1.merichunidya.com:1686/hls/skystennis.m3u8?md5=Zi1OhGSagdDH7ZvOLkJvkA&expires=1766423205
+
+#EXTINF:-1 group-title="CricHD",Star Sports
+https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=TYmGwAsnf8NRNlvVvipttg&expires=1766423206
+
+#EXTINF:-1 group-title="CricHD",Star Sports 2
+https://d5.merichunidya.com:1686/hls/star2in.m3u8?md5=SWfIDF4jtIdlaXgNTrEtGw&expires=1766423208
+
+#EXTINF:-1 group-title="CricHD",SuperSport Action
+https://d6.merichunidya.com:1686/hls/superactions.m3u8?md5=RVKKCVi7XkgYZmCTCPEMVw&expires=1766423208
+
+#EXTINF:-1 group-title="CricHD",SuperSport Cricket HD
+https://d10.merichunidya.com:1686/hls/supercricket.m3u8?md5=3xjbZrWVEPFz29dYGwjM8w&expires=1766423210
+
+#EXTINF:-1 group-title="CricHD",SuperSport Golf
+https://d7.merichunidya.com:1686/hls/supergolf.m3u8?md5=bH90wvVSRydxVyKhWTsQ0Q&expires=1766423211
+
+#EXTINF:-1 group-title="CricHD",SuperSport Football
+https://d5.merichunidya.com:1686/hls/superfotball.m3u8?md5=Jl7AJhFYR43b24QhwitvJw&expires=1766423211
+
+#EXTINF:-1 group-title="CricHD",SuperSport Grandstand
+https://d4.merichunidya.com:1686/hls/supergrandstand.m3u8?md5=iFu-Q3czk-UD84OVaB3mMQ&expires=1766423212
+
+#EXTINF:-1 group-title="CricHD",SuperSport Maximo
+https://d1.merichunidya.com:1686/hls/supermeximo.m3u8?md5=TC9zqPlzZ3LM5f6rHPhnnQ&expires=1766423213
+
+#EXTINF:-1 group-title="CricHD",SuperSport Laliga
+https://d4.merichunidya.com:1686/hls/superlaliga.m3u8?md5=U4VlfdyKQHVHvrlGETcmiw&expires=1766423213
+
+#EXTINF:-1 group-title="CricHD",SuperSport Premier
+https://d4.merichunidya.com:1686/hls/superpremier.m3u8?md5=v8JcxKqoqcad5qoQcf3EgQ&expires=1766423215
+
+#EXTINF:-1 group-title="CricHD",SuperSport PSL
+https://d8.merichunidya.com:1686/hls/superpsl.m3u8?md5=t36LiCXz6SiItOQDQL8SLA&expires=1766423216
+
+#EXTINF:-1 group-title="CricHD",SuperSport Rugby
+https://d7.merichunidya.com:1686/hls/supersrugby.m3u8?md5=2vbaL_m1wrXLJDackRH6eg&expires=1766423216
+
+#EXTINF:-1 group-title="CricHD",TEN Sports pk
+https://d10.merichunidya.com:1686/hls/tenspk.m3u8?md5=4SAt--q6YoAGKiwyNkyX2A&expires=1766423219
+
+#EXTINF:-1 group-title="CricHD",Sony Ten 3 HD Hindi
+https://d5.merichunidya.com:1686/hls/sonyespnind.m3u8?md5=pFdYJ2s5_VQAlWGY14wm-Q&expires=1766423219
+
+#EXTINF:-1 group-title="CricHD",SuperSport Tennis
+https://d9.merichunidya.com:1686/hls/supertennis.m3u8?md5=Ff0b2ZT24rgUaryrJRFtyQ&expires=1766423219
+
+#EXTINF:-1 group-title="CricHD",TNT Sports 1
+https://d9.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=sAzcMCWUW6nw6PaT2EjfQg&expires=1766423220
+
+#EXTINF:-1 group-title="CricHD",TNT Sports 2
+https://d10.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=gyTjZc1Lu3ipmJuXXlLtVg&expires=1766423221
+
+#EXTINF:-1 group-title="CricHD",TNT Sports 4
+https://d10.merichunidya.com:1686/hls/bbtespn.m3u8?md5=VJ1onB77R0mzVKMqkpGG_g&expires=1766423223
+
+#EXTINF:-1 group-title="CricHD",Viaplay Sports 1
+https://d6.merichunidya.com:1686/hls/premieruk.m3u8?md5=tEP84vjIW9yXH3t9YMeMrQ&expires=1766423223
+
+#EXTINF:-1 group-title="CricHD",Willow Cricket Extra
+https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=UiGJ2vCM1vHuGV0r9ujw6A&expires=1766423225
+
+#EXTINF:-1 group-title="CricHD",Willow Cricket HD
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=Uf5l1MBlhrBar3KK36owJA&expires=1766423226
+
+#EXTINF:-1 group-title="CricHD",WWE Network
+https://d9.merichunidya.com:1686/hls/wwe.m3u8?md5=kF-FnJ7VXxu7a7aqnAZQwQ&expires=1766423227
