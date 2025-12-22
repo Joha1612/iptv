@@ -1,177 +1,177 @@
 #EXTM3U
-# Updated: 2025-12-22T22:07:35.719253
+# Updated: 2025-12-22T22:15:42.420186
 
-#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://logo.clearbit.com/sky.com" group-title="Football",Sky Sports Premier League
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/8.png" group-title="CricHD",Sky Sports Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/skysprem.m3u8?md5=50g3qtN8C4-u5OmEdTN5RA&expires=1766426827
+https://d5.merichunidya.com:1686/hls/skysmixx.m3u8?md5=ojbVCKBVAzO7EG-A2em30w&expires=1766427316
 
-#EXTINF:-1 tvg-name="LaLiga Tv" tvg-logo="https://logo.clearbit.com/laliga.com" group-title="Football",LaLiga Tv
+#EXTINF:-1 tvg-name="LaLiga Tv" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/54.png" group-title="Football",LaLiga Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/laligauk.m3u8?md5=HFLXqH992WnpkRFwNxUNig&expires=1766426827
+https://d1.merichunidya.com:1686/hls/laligauk.m3u8?md5=or6CLhlA0PR2DuCe63nV1g&expires=1766427316
 
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://logo.clearbit.com/tnt.com" group-title="CricHD",TNT Sports 4
+#EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="" group-title="CricHD",Sky Sports Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/bbtespn.m3u8?md5=rYMFHOTffjr3hp44z3Vw6Q&expires=1766426828
+https://d9.merichunidya.com:1686/hls/skystennis.m3u8?md5=yN4wqWkNa2WP6zTl8UiZeA&expires=1766427319
 
-#EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://logo.clearbit.com/a.com" group-title="CricHD",A Sports HD
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/10.gif" group-title="CricHD",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=Z1cEUPiwNS-r-crUczgDmA&expires=1766426828
+https://d10.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=ekyp7wWnXnSShpf6JAe3xg&expires=1766427319
 
-#EXTINF:-1 tvg-name="Viaplay Sports 1" tvg-logo="https://logo.clearbit.com/viaplay.com" group-title="CricHD",Viaplay Sports 1
+#EXTINF:-1 tvg-name="Star Sports" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/19.png" group-title="CricHD",Star Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/premieruk.m3u8?md5=snYgN5zF6Mo1w_clSJ03rA&expires=1766426829
+https://d7.merichunidya.com:1686/hls/star1in.m3u8?md5=qKsiSUb3BkhVQCese-VqnQ&expires=1766427320
 
-#EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports Tennis
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/11.gif" group-title="CricHD",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/skystennis.m3u8?md5=VTO10Mr5PIl-kn5SWkXA2A&expires=1766426829
+https://d1.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=fq8lXkZO6CEkLEiNWaBUgQ&expires=1766427320
 
-#EXTINF:-1 tvg-name="Ch10 ( BT Sport 5 )" tvg-logo="https://logo.clearbit.com/ch10.com" group-title="CricHD",Ch10 ( BT Sport 5 )
+#EXTINF:-1 tvg-name="Willow Cricket HD" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/20.png" group-title="Cricket",Willow Cricket HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/hdchnl10.m3u8?md5=88LjU6ylSxXsQKO7ZEw3wg&expires=1766426830
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=yr4ex2jRIb__pZI9FG76Ng&expires=1766427321
 
-#EXTINF:-1 tvg-name="Star Sports" tvg-logo="https://logo.clearbit.com/star.com" group-title="CricHD",Star Sports
+#EXTINF:-1 tvg-name="TEN Sports pk" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/50.gif" group-title="CricHD",TEN Sports pk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/star1in.m3u8?md5=BvMhjS_P8knKaHj-8YF38A&expires=1766426832
+https://d4.merichunidya.com:1686/hls/tenspk.m3u8?md5=mYWtNQMeDLnXgdBxYgT6Kg&expires=1766427323
 
-#EXTINF:-1 tvg-name="Willow Cricket Extra" tvg-logo="https://logo.clearbit.com/willow.com" group-title="Cricket",Willow Cricket Extra
+#EXTINF:-1 tvg-name="Ch10 ( BT Sport 5 )" tvg-logo="" group-title="CricHD",Ch10 ( BT Sport 5 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=kk7VgU41IgjLq2h2VWfsig&expires=1766426832
+https://d3.merichunidya.com:1686/hls/hdchnl10.m3u8?md5=EEbUrib6jhtHKhXAgqZmSA&expires=1766427323
 
-#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://logo.clearbit.com/star.com" group-title="CricHD",Star Sports 2
+#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/53.png" group-title="CricHD",Star Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/star2in.m3u8?md5=BjG9E9wwbHL_FXp7z-ek2w&expires=1766426833
+https://d4.merichunidya.com:1686/hls/star2in.m3u8?md5=fpTST95bHTxP_Tho6B7UNw&expires=1766427326
 
-#EXTINF:-1 tvg-name="Willow Cricket HD" tvg-logo="https://logo.clearbit.com/willow.com" group-title="Cricket",Willow Cricket HD
+#EXTINF:-1 tvg-name="Willow Cricket Extra" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/55.png" group-title="Cricket",Willow Cricket Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=yCpBx-EepYPjDty_Ef7aSw&expires=1766426834
+https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=skjXa6EyT3g-D3FmSNGj9A&expires=1766427327
 
-#EXTINF:-1 tvg-name="Ch16 - Direct Sports SP" tvg-logo="https://logo.clearbit.com/ch16.com" group-title="CricHD",Ch16 - Direct Sports SP
+#EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/56.png" group-title="CricHD",A Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/dsportshd1.m3u8?md5=QIjqLFMZTz-oUB0Vbw7g2A&expires=1766426837
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=CDjw7PRdiiWshZzRDJVeaw&expires=1766427328
 
-#EXTINF:-1 tvg-name="Sky Sports  Action" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports  Action
+#EXTINF:-1 tvg-name="Ch16 - Direct Sports SP" tvg-logo="" group-title="CricHD",Ch16 - Direct Sports SP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/skysact.m3u8?md5=ja6GiV493g-KC_fB3BOdNg&expires=1766426841
+https://d10.merichunidya.com:1686/hls/dsportshd1.m3u8?md5=qT1b4aHsYzi5kgTa_Zwckg&expires=1766427330
 
-#EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports Arena
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/7.png" group-title="CricHD",Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=eVn7EChw_EbRtvTKzzrjHQ&expires=1766426843
+https://d3.merichunidya.com:1686/hls/skysfor1.m3u8?md5=NxQb7JcEf8Er_ubyhHcahg&expires=1766427330
 
-#EXTINF:-1 tvg-name="Sky Sports F1 BackUp" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports F1 BackUp
+#EXTINF:-1 tvg-name="ESPN 2 US" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/148.png" group-title="CricHD",ESPN 2 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/skysfor1.m3u8?md5=zpZnX-vizEWVS58jGP9V6Q&expires=1766426849
+https://d2.merichunidya.com:1686/hls/espn2.m3u8?md5=lSVeUtmhV1LHBMIkBofaTQ&expires=1766427331
 
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports F1
+#EXTINF:-1 tvg-name="Sky Sports F1 BackUp" tvg-logo="" group-title="CricHD",Sky Sports F1 BackUp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/skysfor1.m3u8?md5=Q4lD97P_RAZdZCnyusHioQ&expires=1766426850
+https://d6.merichunidya.com:1686/hls/skysfor1.m3u8?md5=TSeLBXCOpNBoXW_RlT9w0A&expires=1766427333
 
-#EXTINF:-1 tvg-name="Hub Premier 2" tvg-logo="https://logo.clearbit.com/hub.com" group-title="Football",Hub Premier 2
+#EXTINF:-1 tvg-name="Sky Sports Cricket UK Backup" tvg-logo="" group-title="Cricket",Sky Sports Cricket UK Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/hubpremier2.m3u8?md5=QblPpaArYHDs79d1_0Okng&expires=1766426850
+https://d9.merichunidya.com:1686/hls/skyscric.m3u8?md5=SBcNDtWbzC2hoP1tzN0KOg&expires=1766427333
 
-#EXTINF:-1 tvg-name="Hub Premier 3" tvg-logo="https://logo.clearbit.com/hub.com" group-title="Football",Hub Premier 3
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/hubpremier3.m3u8?md5=jKc4INdboaDC2fOMuBKPpg&expires=1766426850
+https://d5.merichunidya.com:1686/hls/skysme.m3u8?md5=FkXfRUOlIDCNsqCUu3vIpQ&expires=1766427334
 
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://logo.clearbit.com/sky.com" group-title="Football",Sky Sports Football
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/13.gif" group-title="CricHD",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/skysfott.m3u8?md5=8TYVTtOAHKHMGba48VM59A&expires=1766426851
+https://d8.merichunidya.com:1686/hls/bbtespn.m3u8?md5=u2zfolBzwq-RhzX9D1bFcg&expires=1766427336
 
-#EXTINF:-1 tvg-name="TEN Sports pk" tvg-logo="https://logo.clearbit.com/ten.com" group-title="CricHD",TEN Sports pk
+#EXTINF:-1 tvg-name="Sky Sports  Action" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/4.png" group-title="CricHD",Sky Sports  Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/tenspk.m3u8?md5=Bx5fX-zEmhQUIHksw1CKGw&expires=1766426851
+https://d7.merichunidya.com:1686/hls/skysact.m3u8?md5=GLHB-mAly4T_fOXZ7o8bbw&expires=1766427338
 
-#EXTINF:-1 tvg-name="Hub Premier 4" tvg-logo="https://logo.clearbit.com/hub.com" group-title="Football",Hub Premier 4
+#EXTINF:-1 tvg-name="Sky Sports  Golf" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/5.png" group-title="CricHD",Sky Sports  Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/hubpremier4.m3u8?md5=4ihbP15m6PefHZjeKvPkzQ&expires=1766426852
+https://d5.merichunidya.com:1686/hls/skysgol.m3u8?md5=sF4qSZAwXvLyjabNqWPnpw&expires=1766427338
 
-#EXTINF:-1 tvg-name="Sky Sports  Golf" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports  Golf
+#EXTINF:-1 tvg-name="Hub Premier 2" tvg-logo="" group-title="Football",Hub Premier 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/skysgol.m3u8?md5=JUt-8j1xyf-nvN8EJGCUXA&expires=1766426852
+https://d4.merichunidya.com:1686/hls/hubpremier2.m3u8?md5=kKVGGIQPaSEt9CwJRdxH1w&expires=1766427338
 
-#EXTINF:-1 tvg-name="Hub Premier 5" tvg-logo="https://logo.clearbit.com/hub.com" group-title="Football",Hub Premier 5
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/6.jpg" group-title="Football",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/hubpremier5.m3u8?md5=EAl7-xmPOOBK1TSo_upxLA&expires=1766426853
+https://d10.merichunidya.com:1686/hls/skysprem.m3u8?md5=Mga8aXVcO24gYYZ-hQxlyg&expires=1766427339
 
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://logo.clearbit.com/tnt.com" group-title="CricHD",TNT Sports 1
+#EXTINF:-1 tvg-name="Hub Premier 3" tvg-logo="" group-title="Football",Hub Premier 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=IhJvTnJADDKrTrJF_tztyQ&expires=1766426853
+https://d10.merichunidya.com:1686/hls/hubpremier3.m3u8?md5=BnW3b8q8fmyseUNRYyXy6g&expires=1766427339
 
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports Main Event
+#EXTINF:-1 tvg-name="Viaplay Sports 1" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/17.gif" group-title="CricHD",Viaplay Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=z_VHKGPtz79BO4hZiztAkw&expires=1766426854
+https://d1.merichunidya.com:1686/hls/premieruk.m3u8?md5=f0VrXed-BxGbmJmOrMlkeg&expires=1766427340
 
-#EXTINF:-1 tvg-name="Sky Sports Cricket UK Backup" tvg-logo="https://logo.clearbit.com/sky.com" group-title="Cricket",Sky Sports Cricket UK Backup
+#EXTINF:-1 tvg-name="Hub Premier 4" tvg-logo="" group-title="Football",Hub Premier 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/skyscric.m3u8?md5=vBwWEz41ClcCNV32aQaZ8Q&expires=1766426855
+https://d1.merichunidya.com:1686/hls/hubpremier4.m3u8?md5=J-rnFZPTDOVjfl50RBL3vg&expires=1766427340
 
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://logo.clearbit.com/tnt.com" group-title="CricHD",TNT Sports 2
+#EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/48.png" group-title="CricHD",Sky Sports Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=W27J8NQhiUb2j9azF7P5uQ&expires=1766426855
+https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=_kVT9KSMZkEI1PtSJwKEVg&expires=1766427341
 
-#EXTINF:-1 tvg-name="ESPN 2 US" tvg-logo="https://logo.clearbit.com/espn.com" group-title="CricHD",ESPN 2 US
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://v1.crichd.tv/assets/uploads/channels/47.png" group-title="Football",Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/espn2.m3u8?md5=DGPYnfOgZp822AqF8a4Pwg&expires=1766426855
+https://d9.merichunidya.com:1686/hls/skysfott.m3u8?md5=82UyVPrOnupGVsbxqZlf8Q&expires=1766427341
 
-#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://logo.clearbit.com/sky.com" group-title="CricHD",Sky Sports Mix
+#EXTINF:-1 tvg-name="Hub Premier 5" tvg-logo="" group-title="Football",Hub Premier 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/skysmixx.m3u8?md5=2PkrTEs4VPtbP6kNuLmF_w&expires=1766426855
+https://d2.merichunidya.com:1686/hls/hubpremier5.m3u8?md5=lFzfVzwUF-wIRgQrf9rWMw&expires=1766427341
 
