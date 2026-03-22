@@ -172,8 +172,8 @@ referer_url = "https://edge.cdn-live.ru/"
 channels_data = get_online_channels(referer_url)
 
 if channels_data:
-    with open("siamcdnplaylist.m3u", "w", encoding='utf-8') as f:
-        f.write('#EXTM3U x-tvg-url="https://github.com/epgshare01/share/raw/master/epg_ripper_ALL_SOURCES1.xml.gz"\n')
+    with open("sport_playlist.m3u", "w", encoding='utf-8') as f:
+        f.write('#EXTM3U x-tvg-url="https://Joha"\n')
         for channel in channels_data:
             print(f"Processing {channel.get('name')}...")
             player_page_url = channel.get('url')
@@ -194,3 +194,4 @@ if channels_data:
     print("Playlist created successfully.")
 else:
     print("No online sports channels found or an error occurred. Playlist not updated.")
+        
